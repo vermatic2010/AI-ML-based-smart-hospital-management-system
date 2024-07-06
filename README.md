@@ -1,3 +1,6 @@
+git clone https://github.com/vermatic2010/AI-ML-based-smart-hospital-management-system.git<br />
+Make 2 folders - dataSet & recognizer
+<br /><br />
 1. Make a facedb with Doctor, Medicine & Patient tables.
 2. Enter values in Doctor & Medicine tables.<br />
 <img width="548" alt="Screenshot 2024-07-06 120715" src="https://github.com/vermatic2010/AI-ML-based-smart-hospital-management-system/assets/127281006/89bd6c5d-e677-4efc-8ba2-57b875163e82"><br />
