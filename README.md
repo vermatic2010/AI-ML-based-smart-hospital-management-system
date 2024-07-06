@@ -3,9 +3,7 @@ Make 2 folders - dataSet & recognizer
 <br /><br />
 <br /><br />
 
-A smart hospital management system built using a pre-trained Haar Cascade classifier for detecting frontal faces in images. It includes tables of patient, doctor, and medicine.
-A patient registers to see a doctor and uses a contactless method to enter the hospital. The admin or nurse verifies the patient's details using the hospital's installed cameras, which displays the patient's Aadhar ID, name, age, and gender on the hospital computer screens. The patient receives information about the consultation fees to be paid & OPD details where their registered doctor is located, also displayed beside their face upon arrival at the hospital & have to pay the consultation fees to the hospital staff.
-The doctor prescribes medicines to the patient and the face recognition algorithm displays these details along with the total bill to the pharmacist.
+A smart hospital management system built using a pre-trained Haar Cascade classifier for detecting frontal faces in images. It includes tables of patient, doctor, and medicine. A patient registers to see a doctor and uses a contactless method to enter the hospital. The admin or nurse verifies the patient's details using the hospital's installed cameras, which displays the patient's Aadhar ID, name, age, and gender on the hospital computer screens. The patient receives information about the consultation fees to be paid & OPD details where their registered doctor is located, also displayed beside their face upon arrival at the hospital & have to pay the consultation fees to the hospital staff. The doctor prescribes medicines to the patient and the face recognition algorithm displays these details along with the total bill to the patient & pharmacist.
 <br /><br />
 <br /><br />
 
