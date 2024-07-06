@@ -1,6 +1,14 @@
 git clone https://github.com/vermatic2010/AI-ML-based-smart-hospital-management-system.git<br />
 Make 2 folders - dataSet & recognizer
 <br /><br />
+<br /><br />
+
+A smart hospital management system built using a pre-trained Haar Cascade classifier for detecting frontal faces in images. It includes tables of patient, doctor, and medicine.<br/ >
+A patient registers to see a doctor and uses a contactless method to enter the hospital. The admin or nurse verifies the patient's details using the hospital's installed cameras, which displays the patient's Aadhar ID, name, age, and gender on the hospital computer screens. The patient receives information about the consultation fees to be paid & OPD details where their registered doctor is located, also displayed beside their face upon arrival at the hospital & have to pay the consultation fees to the hospital staff.<br />
+The doctor prescribes medicines to the patient and the face recognition algorithm displays these details along with the total bill to the pharmacist.
+<br /><br />
+<br /><br />
+
 1. Make a facedb with Doctor, Medicine & Patient tables.
 2. Enter values in Doctor & Medicine tables.<br />
 <img width="548" alt="Screenshot 2024-07-06 120715" src="https://github.com/vermatic2010/AI-ML-based-smart-hospital-management-system/assets/127281006/89bd6c5d-e677-4efc-8ba2-57b875163e82"><br />
