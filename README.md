@@ -12,6 +12,7 @@
 4. Run TrainFace.py
 5. Run PatientFaceRecogniser.py - When patient goes to the hospital, he gets the details of the OPD & has to pay total consultation fees to the hospital staff
 <img width="960" alt="Screenshot 2024-07-06 122515" src="https://github.com/vermatic2010/AI-ML-based-smart-hospital-management-system/assets/127281006/2eef5285-be79-48d3-b785-2c5d2e90e542">
-   
-<img width="960" alt="Screenshot 2024-07-06 112921" src="https://github.com/vermatic2010/AI-ML-based-smart-hospital-management-system/assets/127281006/2586f157-1e89-4651-a6e4-7374be844da8">
+6. Run DoctorGivesPrescription.py - Doctor enters the medicine id & medicine quantities details.
 <img width="907" alt="Screenshot 2024-07-06 113128" src="https://github.com/vermatic2010/AI-ML-based-smart-hospital-management-system/assets/127281006/c3724aee-4e7d-45a9-b0e5-c14986bee23e">
+7. Run MedicinesBill.py
+<img width="960" alt="Screenshot 2024-07-06 112921" src="https://github.com/vermatic2010/AI-ML-based-smart-hospital-management-system/assets/127281006/2586f157-1e89-4651-a6e4-7374be844da8">
